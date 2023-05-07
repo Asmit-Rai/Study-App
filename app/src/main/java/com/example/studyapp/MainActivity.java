@@ -3,6 +3,7 @@ package com.example.studyapp;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.annotation.SuppressLint;
+import android.content.Intent;
 import android.os.Bundle;
 import android.os.CountDownTimer;
 import android.view.View;
@@ -21,14 +22,24 @@ public class MainActivity extends AppCompatActivity {
     private CountDownTimer mCountDownTimer;
     private  boolean mTimerRunning;
     private long mTimeLeftInMillis = START_TIME_IN_MILLIS;
+    
+    private Button to_do_list_button;
 
 
 
+    @SuppressLint("MissingInflatedId")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        to_do_list_button= (Button) findViewById(R.id.to_do_list_button);
+        to_do_list_button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                opentodolist();
+            }
+        });
         mTextViewCountDown = findViewById(R.id.text_view_countdown);
         mButtonStartPause = findViewById(R.id.button_start_pause);
         mButtonReset = findViewById(R.id.button_reset);
@@ -98,5 +109,10 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
+     public void opentodolist()
+     {
+         Intent intent = new Intent(this, to_do_list.class);
+         startActivity(intent);
+     }
 
 }
