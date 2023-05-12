@@ -1,7 +1,5 @@
 package com.example.studyapp;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.os.Bundle;
@@ -10,8 +8,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-import java.text.Format;
-import java.util.Locale;
+import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
     private static final long START_TIME_IN_MILLIS = 1500000 ;
@@ -24,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
     private long mTimeLeftInMillis = START_TIME_IN_MILLIS;
     
     private Button to_do_list_button;
+
 
 
 

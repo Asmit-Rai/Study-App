@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-merged_res-28:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-main-30:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-merged_res-28:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-main-30:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-merged_res-28:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-main-30:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-merged_res-28:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-main-30:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-merged_res-28:\\drawable_study_app_background.jpg.flat",
+        "source": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-main-30:\\drawable\\study_app_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-merged_res-28:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-main-30:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-merged_res-28:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-main-30:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-merged_res-28:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-main-30:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-merged_res-28:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-main-30:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-merged_res-28:\\layout_activity_to_do_list.xml.flat",
+        "source": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-main-30:\\layout\\activity_to_do_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-merged_res-28:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-main-30:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-merged_res-28:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-main-30:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-merged_res-28:\\drawable_start.jpeg.flat",
+        "source": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-main-30:\\drawable\\start.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-merged_res-28:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-main-30:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.studyapp-merged_res-28:/layout_activity_to_do_list.xml.flat",
+        "source": "com.example.studyapp-main-30:/layout/activity_to_do_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-merged_res-28:\\drawable_add_icon.png.flat",
+        "source": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-main-30:\\drawable\\add_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-merged_res-28:\\drawable_study_app_background3.jpg.flat",
+        "source": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-main-30:\\drawable\\study_app_background3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-merged_res-28:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-main-30:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-merged_res-28:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-main-30:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-merged_res-28:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-main-30:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-merged_res-28:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-main-30:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-merged_res-28:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-main-30:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-merged_res-28:\\layout_row.xml.flat",
+        "source": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-main-30:\\layout\\row.xml"
+    },
+    {
+        "merged": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-merged_res-28:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\asmit rai\\.gradle\\daemon\\8.0\\com.example.studyapp-main-30:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    }
+]
