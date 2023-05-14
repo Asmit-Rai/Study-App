@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/study_app_background3"
+    tools:context=".to_do_list">
+
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="417dp"
+        android:layout_height="577dp"
+        android:layout_marginStart="2dp"
+        android:layout_marginBottom="76dp"
+        android:cacheColorHint="@color/white"
+        android:fontFamily="sans-serif-medium"
+        android:textColor="#FB8C00"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/editTextText"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.333"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+<shape>
+            <corners android:radius="2dip" />
+            <gradient
+                android:startColor="@color/colorPrimary"
+                android:centerColor="@color/colorPrimary"
+                android:centerY="0.75"
+                android:endColor="@color/colorAccent"
+                android:angle="270"
+                />
+        </shape>
+    </item>
+
+    <item android:id="@android:id/background">
+        <clip>
+            <shape>
+                <corners android:radius="2dip" />
+                <gradient
+                    android:startColor="@color/colorWhite"
+                    android:centerColor="@color/colorWhite"
+                    android:centerY="0.75"
+                    android:endColor="@color/colorWhite"
+                    android:angle="270"
+                    />
+            </shape>
+        </clip>
+    </item>
+
+    <EditText
+
+
+        android:id="@+id/editTextText"
+        android:layout_width="331dp"
+        android:layout_height="57dp"
+        android:layout_marginStart="7dp"
+        android:layout_marginBottom="21dp"
+        android:ems="10"
+        android:hint="@string/add_your_task_of_the_day"
+        android:inputType="text"
+        android:textColor="#FFFFFF"
+        android:textColorHint="#a8a8a8"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/add_button"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/add_button"
+        android:layout_width="59dp"
+        android:layout_height="52dp"
+        android:layout_marginEnd="14dp"
+        android:layout_marginBottom="21dp"
+        android:background="@drawable/add_icon"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/editTextText" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

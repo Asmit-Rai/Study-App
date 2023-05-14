@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="_00_00">00:00</string>
+    <string name="add_your_task_of_the_day">Add your task of the day</string>
+    <string name="app_name">Study App</string>
+    <string name="pause">pause</string>
+    <string name="reset">Reset</string>
+    <string name="start">Start</string>
+    <style name="Base.Theme.StudyApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.StudyApp" parent="Base.Theme.StudyApp"/>
+</resources>

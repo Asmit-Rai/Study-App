@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Study App</string>
+    <string name="_00_00">00:00</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+    <string name="pause">pause</string>
+    <string name="add_your_task_of_the_day">Add your task of the day</string>
+</resources>
