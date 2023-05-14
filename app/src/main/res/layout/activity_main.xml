@@ -15,7 +15,7 @@
         android:text="@string/_00_00"
         android:textAlignment="center"
         android:textColor="@color/white"
-        android:textSize="130sp"
+        android:textSize="120sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.493"
         app:layout_constraintStart_toStartOf="parent"
