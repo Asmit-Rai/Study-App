@@ -17,7 +17,7 @@
         android:cacheColorHint="@color/white"
         android:fontFamily="sans-serif-medium"
         android:textColor="#FB8C00"
-        android:textSize="25sp"
+        android:textSize="24sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/editTextText"
         app:layout_constraintEnd_toEndOf="parent"
@@ -46,7 +46,7 @@
 
     <Button
         android:id="@+id/add_button"
-        android:layout_width="59dp"
+        android:layout_width="58dp"
         android:layout_height="52dp"
         android:layout_marginEnd="14dp"
         android:layout_marginBottom="21dp"
